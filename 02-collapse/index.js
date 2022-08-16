@@ -1,6 +1,6 @@
 let isContentVisible = true;
 
-const hiddenTitle = document.querySelector('.collapsible__action--hidden'),
+const  hiddenTitle = document.querySelector('.collapsible__action--hidden'),
         visibleTitle = document.querySelector('.collapsible__action--visible'),
         content = document.querySelector('.collapsible__content'),
 
